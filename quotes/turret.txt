@@ -1,0 +1,147 @@
+# launched into the air
+Wheee.
+Wheeeeeeeee.
+I'm afraid of heights.
+Nooooo.
+See you soon.
+I'm scared
+Hooray
+Glorious freedom.
+I'm flying
+Goodbye.
+
+# Turrets blocked by Hard Light Bridge
+Come closer.
+Something's wrong.
+What are you doing?
+Failure.
+
+# Turrets being heated with the Thermal Discouragement Beam
+Ow.
+Oww.
+Owwww.
+It burns.
+I'm on fire.
+I'm on fire owww.
+Please stop.
+You've made your point.
+OK you win.
+This is not good.
+
+# Turrets being squashed
+Ooohhh.
+Owwww.
+Can't...breathe.
+Excuse me you're squishing me.
+Um, hello.
+Help! Being squished.
+
+# Turrets witnessing a Turret death
+Good shot.
+Well done.
+I need backup.
+You have excellent aim.
+I never liked her.
+These things happen.
+That was nobody's fault.
+She was provoking you.
+Oh dear.
+Oh my.
+I blame myself.
+She probably deserved it.
+I saw it. It was an accident.
+She's probably OK.
+Noted.
+
+# Active Turrets
+Hi.
+Target acquired.
+Firing.
+Hello friend.
+Gotcha.
+There you are.
+I see you.
+
+# Turrets searching
+Hellooo.
+Searching.
+Canvassing. (unused)
+Sentry mode activated.
+Is anyone there?
+Could you come over here?
+
+# Colliding Turrets
+Coming through.
+Excuse me.
+Sorry.
+My fault.
+Ohh.
+
+# Turrets deploying
+Hello.
+Deploying.
+Preparing to dispense product. (unused)
+Activated.
+There you are.
+Who's there?
+
+# Disabled Turrets
+Ahahaa.
+Critical error.
+Shutting down.
+I don't blame you.
+I don't hate you.
+Whyyyy.
+No hard feelings.
+
+# Turrets being picked up
+Hey.
+Hey hey hey.
+Put me down.
+Who are you?
+Hey.
+Please put me down.
+Help.
+Uh oh.
+
+# Turret deaths
+Goodbye.
+Sleep mode activated.
+Hibernating.
+Goodnight.
+Resting.
+Nap time.
+
+# Turret lost its target
+Are you still there?
+Target lost.
+Searching.
+
+# Turret being evaporated
+aiaiaiaiaiai.
+
+# Turrets being shot at
+Hey, it's me!
+Don't shoot!
+Stop shooting!
+
+# Tipped over Turrets
+Aah.
+Self test error.
+Unknown error. (unused)
+Malfunctioning.
+Aaaah.
+Ow ow ow owww.
+
+
+I can't see a thing! What just happened? Better open fire!
+You can't fire me! I quiiiiiiit!
+So, we're all supposed to be blind now, right? Not just me? All right! Fantastic!
+I uh, don't have any bullets. You gonna give me bullets? Are there bullets up there? Where do I get my gun?
+Do we get some eyes at some point?
+Uh, blam! Blamblamblam! I'm not defective!
+Oh... no. I'm one of the bad ones, aren't I?
+Hey, squeaky voice, give me some of your bullets! Can I get some bullets here? Anyone got any bullets? Well, I tried.
+Clickity click click. Right on the money. Shootin' blanks every time. All the time.
+
+I'm different! 
